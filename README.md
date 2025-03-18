@@ -1,17 +1,17 @@
 # HR-Analytics-Dashboard
 This project analyzes employee attrition, salary distribution, and performance trends using Power BI. The dashboard provides insights into workforce distribution, attrition rates, and department-wise trends to help in decision-making. Key findings highlight high attrition in Research &amp; Development and salary variations across job roles.
 
-# Technologies used
+# Technologies used:
 Power BI
 Excel
 
-# Steps Overview
+# Steps Overview:
 1. Data collected
 2. Understanding data
 3. Cleaned data in excel and preprocessed
 4. Data Visualization
 
-# Dashboard content
+# Dashboard Content:
 1st Page:
   Count of type of Marital Status 
   Count of EmpID
